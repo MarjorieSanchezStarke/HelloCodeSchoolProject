@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+  <head>
+    <title>Marjorie</title>
+  </head>
+  <body>
+    <h1>Hello, Code School</h1>
+    <ul>
+      <li>JavaScript</li>
+      <li>NodeJS</li>
+      <li>Ruby</li>
+    </ul>
+  </body>
+</html>
